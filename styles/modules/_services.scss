@@ -1,0 +1,33 @@
+.services{
+	background: $background-2;
+	border:1px solid blue;
+	&__continer{
+		margin-top: 10rem;
+	}
+	&__box{
+		position: relative;
+	}
+
+	&__service-title{
+		// font-size: 6rem;
+		// text-transform: uppercase;
+		// font-weight: bold;
+		// letter-spacing: 2px;
+		// color: rgba($mainBlue,0.6);
+		// position: absolute;
+		// top: -3rem;
+		// left: -3rem;
+
+		&__bullet{
+		// color: rgba($mainRed,0.6)
+		color: red;
+
+		}
+	}
+
+	&__services-description{
+		margin-top: 10rem;
+	}
+
+}
+

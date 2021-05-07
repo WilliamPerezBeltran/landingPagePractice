@@ -1,0 +1,21 @@
+video:
+https://www.youtube.com/watch?v=TAAMtvgAcSg&list=PLVKiiBxGCAg624vbsZeY-FWhMhbnsGrOf&index=12&ab_channel=Webdev
+img source:
+https://drive.google.com/file/d/1zi38IbwJ58rEOlKQpBrXdjgLnHpozD8A/view
+
+package: live-server 
+install: npm install -g live-server
+exec: live-server 
+
+https://stackoverflow.com/questions/61250124/how-to-run-live-server-after-node-js-and-npm-installation
+basicamente npm install -g livereload
+
+package: livereload 
+install:npm install -g livereload
+
+
+package: node-sass 
+install: npm install node-sass
+exec :live-server install -g live-server
+
+

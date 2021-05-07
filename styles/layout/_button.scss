@@ -1,0 +1,19 @@
+.button{
+	display: inline-block;
+	background-color: $mainRed;
+	// width: 500px;
+	// height: 100px;
+	// text-align: center;
+	// color: white;
+	padding: 1.3rem 3.2rem;
+	border-radius: 3px;
+	font-size: 2rem;
+	text-transform: uppercase;
+	color:inherit;
+	letter-spacing: 2px;
+	margin-top:9rem;
+
+	&:hover{
+		background-color:$darkRed;
+	}
+}
